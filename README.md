@@ -4,9 +4,9 @@ This is a Retrieval-Augmented Generation (RAG) chatbot that allows users to uplo
 
 ## Requirements
 
-Python 3.9+
-Free Together.ai API key
-One or more plain text documents (UTF-8 encoded)
+- Python 3.9+
+- Free Together.ai API key
+- One or more plain text documents (UTF-8 encoded)
 
 
 ## Features
@@ -51,7 +51,7 @@ One or more plain text documents (UTF-8 encoded)
    - The model generates an answer, which is shown on the page.
 
 
-## 🧑‍💻 Setup Instructions
+## Setup Instructions
 
 ### Clone the Repo
 
